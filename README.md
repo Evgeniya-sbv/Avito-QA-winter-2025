@@ -1,1 +1,0 @@
-# Avito-QA-winter-2025
